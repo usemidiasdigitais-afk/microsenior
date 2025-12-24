@@ -1,3 +1,6 @@
-plWGuF-dGuKu6-ZBAuj1cA
-66470506370-0285ca2sidn7jf82vt4chsnuoront9dh.apps.googleusercontent.com
-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
+developer_token: "plWGuF-dGuKu6-ZBAuj1cA"
+client_id: "788357103284-vmrdo84587jl9dn4r7qi4p2nn0gcl8bm.apps.googleusercontent.com"
+client_secret: "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"
+refresh_token: "1//04CI43zNbGgdFCgYIARAAGAQSNwF-L9IrjeWaRy7pOFZ_y6pEEk0ZyeFSm1YdNgh7XpljutJraYmqfUdhlArU8jZbq3T6tsV9KoA"
+login_customer_id: "ID_DA_CONTA_SEM_TRAÇOS"
+use_proto_plus: true
